@@ -1,0 +1,10 @@
+{
+  "Server": [{
+      "path": "/hello",
+      "method": "GET",
+      "type":"binary",
+      "binary_path":"/home/amiya/mambaforge/bin/python",
+      "args":"hello_world.py --name=abcd",
+      "process_string_from":"<_start_>*<_end_>"
+  }]
+}
